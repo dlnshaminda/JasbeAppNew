@@ -1,0 +1,12 @@
+com.homex.open_mail_app-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.homex.open_mail_app-core-1.6.0-1 C:\Users\User\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.homex.open_mail_app-jetified-annotation-experimental-1.1.0-2 C:\Users\User\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.homex.open_mail_app-jetified-window-1.0.0-beta04-3 C:\Users\User\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.homex.open_mail_app-main-4 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\res
+com.homex.open_mail_app-release-5 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\release\res
+com.homex.open_mail_app-pngs-6 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\generated\res\pngs\release
+com.homex.open_mail_app-resValues-7 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\generated\res\resValues\release
+com.homex.open_mail_app-rs-8 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\generated\res\rs\release
+com.homex.open_mail_app-mergeReleaseResources-9 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.homex.open_mail_app-mergeReleaseResources-10 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.homex.open_mail_app-merged_res-11 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\intermediates\merged_res\release

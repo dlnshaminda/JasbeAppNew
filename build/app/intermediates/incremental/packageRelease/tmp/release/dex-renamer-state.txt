@@ -1,0 +1,4 @@
+#Wed Sep 13 21:15:03 IST 2023
+base.0=E\:\\Ausi Project Servos\\Latest Build\\jasbe\\jasbe\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

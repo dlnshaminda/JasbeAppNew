@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:2:3-36
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:3:5-8:15
+intent#action:name:android.intent.action.VIEW+data:scheme:mailto
+ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:4:9-7:18
+action#android.intent.action.VIEW
+ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:5:13-65
+	android:name
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:5:21-62
+data
+ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:6:13-45
+	android:scheme
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml:6:19-42
+uses-sdk
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\open_mail_app-0.4.5\android\src\main\AndroidManifest.xml

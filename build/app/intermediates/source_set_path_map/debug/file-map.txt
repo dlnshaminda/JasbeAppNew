@@ -1,0 +1,37 @@
+com.example.jasbe.app-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.jasbe.app-jetified-play-services-base-18.0.1-1 C:\Users\User\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.example.jasbe.app-media-1.1.0-2 C:\Users\User\.gradle\caches\transforms-3\13f29b4003f18f53249d90821a7f80a9\transformed\media-1.1.0\res
+com.example.jasbe.app-localbroadcastmanager-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\26b036ab6346dd2a759b9bafc6f47265\transformed\localbroadcastmanager-1.1.0\res
+com.example.jasbe.app-browser-1.4.0-4 C:\Users\User\.gradle\caches\transforms-3\392643a040d0a7ef9b2ed4537c4719d5\transformed\browser-1.4.0\res
+com.example.jasbe.app-lifecycle-runtime-2.3.1-5 C:\Users\User\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.example.jasbe.app-jetified-firebase-messaging-23.1.2-6 C:\Users\User\.gradle\caches\transforms-3\7b6984d056f2514a4364a36c1bf50e5c\transformed\jetified-firebase-messaging-23.1.2\res
+com.example.jasbe.app-core-1.10.1-7 C:\Users\User\.gradle\caches\transforms-3\9c9ab1a476c120097a79d748cec7161f\transformed\core-1.10.1\res
+com.example.jasbe.app-jetified-play-services-maps-18.1.0-8 C:\Users\User\.gradle\caches\transforms-3\a0e34175b89fa528462076cc4208822f\transformed\jetified-play-services-maps-18.1.0\res
+com.example.jasbe.app-jetified-firebase-common-20.3.2-9 C:\Users\User\.gradle\caches\transforms-3\ac7b423c18e0e9c28c2a8c784d1125eb\transformed\jetified-firebase-common-20.3.2\res
+com.example.jasbe.app-jetified-window-1.0.0-beta04-10 C:\Users\User\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.jasbe.app-jetified-annotation-experimental-1.3.0-11 C:\Users\User\.gradle\caches\transforms-3\ec10578641139d45a328c567f48881a1\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.jasbe.app-jetified-play-services-basement-18.1.0-12 C:\Users\User\.gradle\caches\transforms-3\f46b9773282b7a3d38863a46e0e0b5d1\transformed\jetified-play-services-basement-18.1.0\res
+com.example.jasbe.app-jetified-core-ktx-1.10.1-13 C:\Users\User\.gradle\caches\transforms-3\f7cdfb73eaf400e8b2c346bb8e6d73ec\transformed\jetified-core-ktx-1.10.1\res
+com.example.jasbe.app-debug-14 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\android\app\src\debug\res
+com.example.jasbe.app-main-15 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\android\app\src\main\res
+com.example.jasbe.app-pngs-16 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\generated\res\pngs\debug
+com.example.jasbe.app-resValues-17 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\generated\res\resValues\debug
+com.example.jasbe.app-rs-18 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\generated\res\rs\debug
+com.example.jasbe.app-mergeDebugResources-19 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.jasbe.app-mergeDebugResources-20 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.jasbe.app-merged_res-21 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\app\intermediates\merged_res\debug
+com.example.jasbe.app-packaged_res-22 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-23 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\firebase_auth\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-24 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\firebase_core\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-25 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\firebase_messaging\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-26 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-27 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-28 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\fluttertoast\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-29 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\geocoding_android\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-30 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-31 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\location\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-32 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\open_mail_app\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-33 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\path_provider_android\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-34 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-35 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\sqflite\intermediates\packaged_res\debug
+com.example.jasbe.app-packaged_res-36 E:\Ausi Project Servos\Latest Build\jasbe\jasbe\build\url_launcher_android\intermediates\packaged_res\debug
